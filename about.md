@@ -2,6 +2,7 @@
 layout: page
 title: About me
 ---
+gem "jekyll-theme-minima"
 
 Hello, world! I'm Nofal, a data enthusiast and a proud holder of two Microsoft certifications: AI engineer and data scientist engineer. I love exploring data and finding insights that can make a difference in the real world.
 
