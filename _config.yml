@@ -182,7 +182,7 @@ kramdown:
 tagline: Transfer Learning Nueral Network | Food-11 Classification
 url: 'https://nofal82.github.io'
 lang: eng
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
