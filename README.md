@@ -76,7 +76,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 This project is based on the following resources:
 
-•  https://www.kaggle.com/vermaji/food11-image-classification-using-transfer-learning
+•  https://www.kaggle.com/nofal82/food-11-usingtransferlearning
 
 •  https://www.tensorflow.org/tutorials/images/transfer_learning
 
